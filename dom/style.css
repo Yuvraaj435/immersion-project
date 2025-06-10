@@ -1,0 +1,16 @@
+#head{
+    border:2px solid black;
+}
+
+#outer {
+    height: 10px;
+    width: 95vw;
+    background-color: lightgray; 
+    margin-top: 20px;
+}
+
+#inner {
+    height: 10px;
+    width: 0vw;
+    background-color: green; 
+}
